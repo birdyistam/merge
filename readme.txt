@@ -24,3 +24,7 @@ Tâm đã hoàn thành feature A
 Tâm muốn merge nhánh Tâm vào nhánh main 
 Tâm checkout nhánh main 
 Tâm merge nhánh Tâm vào nhánh main bằng: git merge Tâm
+
+Tâm chỉ commit dòng 23 24 25 26 vào local-repository của nhánh Tâm
+Sau đó merge nhánh Tâm từ local-repository lên nhánh remote-repository của nhánh main
+Do đó remote-repository của nhánh Tâm chưa có dòng 23 24 25 26
