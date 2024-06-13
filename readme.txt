@@ -27,3 +27,5 @@ Tâm merge nhánh Tâm vào nhánh main bằng: git merge Tâm
 
 Tâm sửa thông tin dự án merge
 Sau đó Tâm đồng bộ code lên remote-repository
+
+Tâm merge nhánh Tâm vào main
