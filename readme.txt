@@ -29,3 +29,5 @@ Nhánh Tâm chưa đồng bộ code
 Nhưng Hân lại checkout từ nhánh của Tâm, quên phải checkout từ head mới nhất trên nhánh main
 Giờ làm sao ta?
 Dùng: git fetch origin?
+
+Hân merge nhánh Hân vào main
