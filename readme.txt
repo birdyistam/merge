@@ -28,3 +28,10 @@ Tâm merge nhánh Tâm vào nhánh main bằng: git merge Tâm
 Tâm chỉ commit dòng 23 24 25 26 vào local-repository của nhánh Tâm
 Sau đó merge nhánh Tâm từ local-repository lên nhánh remote-repository của nhánh main
 Do đó remote-repository của nhánh Tâm chưa có dòng 23 24 25 26
+Nhánh Tâm chưa đồng bộ code
+Nhưng Hân lại checkout từ nhánh của Tâm, quên phải checkout từ head mới nhất trên nhánh main
+Giờ làm sao ta?
+Dùng: git fetch origin?
+
+Hân merge nhánh Hân vào main
+
