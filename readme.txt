@@ -7,3 +7,6 @@ Thêm file vào stage
     - Sau khi thêm file vào stage: index added - git đánh chỉ mục (index) các nội dung mới, mới cập nhật 
     trong thư mục làm việc
 Commit với messages
+    Lúc này git sẽ tạo bản snapshot ghi lại những thay đổi của file
+    File hiện tại đang nằm ở local-repository
+Publish branch để đẩy những thay đổi lên remote-repository (github)
