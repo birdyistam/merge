@@ -9,7 +9,7 @@ Thêm file vào stage
 Commit với messages
     Lúc này git sẽ tạo bản snapshot ghi lại những thay đổi của file
     File hiện tại đang nằm ở local-repository
-Publish branch để đẩy những thay đổi lên remote-repository (github)
+Publish branch để đẩy những thay đổi lên remote-repository (github) trên nhánh main hoặc origin
 
 Từ nhánh main Tâm checkout sang nhánh Tâm
 Tâm tạo feature A
@@ -24,3 +24,6 @@ Tâm đã hoàn thành feature A
 Tâm muốn merge nhánh Tâm vào nhánh main 
 Tâm checkout nhánh main 
 Tâm merge nhánh Tâm vào nhánh main bằng: git merge Tâm
+
+Tâm sửa thông tin dự án merge
+Sau đó Tâm đồng bộ code lên remote-repository
