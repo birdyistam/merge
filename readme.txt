@@ -24,3 +24,8 @@ Tâm đã hoàn thành feature A
 Tâm muốn merge nhánh Tâm vào nhánh main 
 Tâm checkout nhánh main 
 Tâm merge nhánh Tâm vào nhánh main bằng: git merge Tâm
+
+Nhánh Tâm chưa đồng bộ code
+Nhưng Hân lại checkout từ nhánh của Tâm, quên phải checkout từ head mới nhất trên nhánh main
+Giờ làm sao ta?
+Dùng: git fetch origin?
