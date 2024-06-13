@@ -10,3 +10,12 @@ Commit với messages
     Lúc này git sẽ tạo bản snapshot ghi lại những thay đổi của file
     File hiện tại đang nằm ở local-repository
 Publish branch để đẩy những thay đổi lên remote-repository (github)
+
+Từ nhánh main Tâm checkout sang nhánh Tâm
+Tâm tạo feature A
+    file đang ở trạng thái modified - git check Tâm đang sửa trên cái file readme.txt
+Thêm file vào stage: 
+    file có trạng thái index modified - git đánh chỉ mục (index) các nội dung đã chỉnh sửa, 
+    mới cập nhật trong thư mục làm việc
+Commit với messages
+Publish branch lên remote
